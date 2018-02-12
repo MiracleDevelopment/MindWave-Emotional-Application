@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.1.1_653c1b3650f9c3608fc5ef33e5e97ca2c1cdf3cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-10.0.1_daf5b15806cc7ee09276edcb338295df4a9da84f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_daf5b15806cc7ee09276edcb338295df4a9da84f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.1.1_81d1e17a29f6977be3aa2a06c714ab7a9a0b7e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.1.1_230ab6148640dd38847ada6a55eee50d9a5b9da7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_81d1e17a29f6977be3aa2a06c714ab7a9a0b7e66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_230ab6148640dd38847ada6a55eee50d9a5b9da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.1.1_e6293cee942021dd173d5f2872060f0bef97766c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d44a6218c62ecab84c1ccb8ed923a095438fb917">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_db121d5f730a9acc372c097a33d5fb59eb07da2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_d39afe42304268d8cfc8de8eecfb94e4f1dcda77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_bb47b97be976ede440cafa9ef6f2b0c1543e9961\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.1.1_d39afe42304268d8cfc8de8eecfb94e4f1dcda77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-10.0.1_bb47b97be976ede440cafa9ef6f2b0c1543e9961.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d069262f5e2d3d3cd383a879efd3ec2f87f824a">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a55647bfa3e07bae9f36eb78cd8b7a280274324d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ipati\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_5f5006c8398d1ae1219ce05d39d76bb43cf2c438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_c4d1faf0746cd6e599d06d93cfa1d8fc7f717365\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-25.1.1_c4d1faf0746cd6e599d06d93cfa1d8fc7f717365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ipati\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\support-annotations-25.1.1_5f5006c8398d1ae1219ce05d39d76bb43cf2c438.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_653c1b3650f9c3608fc5ef33e5e97ca2c1cdf3cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\libs\ThinkGear.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4f0f0a355dcc5315e5bef25b775beaa52b2d208">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\2\ThinkGear_6da07b10366c11415f8539ec449cf5e41b8a37ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.1.1_40c58fd19b2fa5f7b0a6e4539d596c1a8c3320bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.1.1_7a5d5d6983945071394df02883f458c258d71c5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_1babbebf66d800ef19a052d9203a4bc303eabaa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-10.0.1_c275e0ab914c9e28ccd50617ef829f1118971b5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_40c58fd19b2fa5f7b0a6e4539d596c1a8c3320bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.1.1_1babbebf66d800ef19a052d9203a4bc303eabaa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\libs\ThinkGear.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4f0f0a355dcc5315e5bef25b775beaa52b2d208">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\ThinkGear_6da07b10366c11415f8539ec449cf5e41b8a37ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_7a5d5d6983945071394df02883f458c258d71c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_c275e0ab914c9e28ccd50617ef829f1118971b5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_4a61548aab9db3f99b44821898d94334d4a03940\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.1.1_4a61548aab9db3f99b44821898d94334d4a03940.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_e6293cee942021dd173d5f2872060f0bef97766c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_fbbade91c0cb440b013647d1b2e2d0e4d9631dec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\AndroidStudioProject\MindWave Emotional Application\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-10.0.1_fbbade91c0cb440b013647d1b2e2d0e4d9631dec.jar" />
+    </item>
+
+</items>

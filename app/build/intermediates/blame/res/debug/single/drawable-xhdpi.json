@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btnconnect.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\btnconnect.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emofocused.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\emofocused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btnconnected.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\btnconnected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emoconnecting.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\emoconnecting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btnguide2.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\btnguide2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emoalertness.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\emoalertness.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emohello.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\emohello.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emosleep.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\emosleep.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bgbtn.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\bgbtn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emoimagin.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\emoimagin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emorelax.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\emorelax.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iconbackhome.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\iconbackhome.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emoserious.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xhdpi\\emoserious.png"
+    }
+]

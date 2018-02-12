@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loopclick.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\loopclick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\nextclick.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\nextclick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loop44.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\loop44.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\preivclick.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\preivclick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back44.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\back44.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pause44.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\pause44.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\playicon.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\playicon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shuffle144.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\shuffle144.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shuffleclick.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\shuffleclick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\next44.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-mdpi\\next44.png"
+    }
+]

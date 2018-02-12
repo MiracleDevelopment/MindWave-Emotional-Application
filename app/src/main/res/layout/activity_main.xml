@@ -1,0 +1,132 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgstart"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.00"
+        android:fadeScrollbars="true"
+        android:scrollbars="vertical">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="TextView"
+            android:textSize="0sp" />
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/tvPoorSignal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/scrollView1"
+        android:text="Poor Signal"
+        android:textSize="0sp" />
+
+    <TextView
+        android:id="@+id/tvRawData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvPoorSignal"
+        android:text="Raw Data"
+        android:textSize="0sp" />
+
+    <TextView
+        android:id="@+id/tvHeartRate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvPoorSignal"
+        android:textSize="0sp" />
+
+    <TextView
+        android:id="@+id/tvAttention"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvHeartRate"
+        android:text="Attention"
+        android:textSize="0sp" />
+
+    <TextView
+        android:id="@+id/tvMeditation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvAttention"
+        android:text="Meditation"
+        android:textSize="0sp" />
+
+    <TextView
+        android:id="@+id/tvBlink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvMeditation"
+        android:text="Blink"
+        android:textSize="0sp" />
+
+    <TextView
+        android:id="@+id/tvRawCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvBlink"
+        android:text="Raw Count"
+        android:textSize="0sp" />
+
+    <TextView
+        android:id="@+id/tvRawMulti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvRawCount"
+        android:text="Raw Multi"
+        android:textSize="0sp" />
+
+    <ImageButton
+        android:id="@+id/guideback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/bgbtn"
+        android:onClick="goBack"
+        android:padding="25dp"
+        android:src="@drawable/iconbackhome" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/bgbtn"
+        android:onClick="doGuide"
+        android:scaleType="fitCenter"
+        android:src="@drawable/btnguide2"
+        android:layout_alignTop="@+id/imageButton1"
+        android:layout_alignLeft="@+id/imgMood"
+        android:layout_marginLeft="25dp"
+        android:layout_alignStart="@+id/imgMood" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/bgbtn"
+        android:onClick="doStuff"
+        android:scaleType="fitCenter"
+        android:src="@drawable/btnconnect"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="25dp"
+        android:layout_alignEnd="@+id/imgMood" />
+
+    <ImageView
+        android:id="@+id/imgMood"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/emohello"
+        android:layout_above="@+id/guideback"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

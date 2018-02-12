@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\relaxationdeeper.mp3",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\relaxationdeeper.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\endorphin.mp3",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\endorphin.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lowbat.wav",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\lowbat.wav"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\thefastway.mp3",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\thefastway.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarm.wav",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\alarm.wav"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\splash.wav",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\splash.wav"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\serenade.mp3",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\serenade.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\boostcreativity.mp3",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\boostcreativity.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\instantstressrelief.mp3",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\instantstressrelief.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\raw\\relaxationduaiinduction.mp3",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\raw\\relaxationduaiinduction.mp3"
+    }
+]

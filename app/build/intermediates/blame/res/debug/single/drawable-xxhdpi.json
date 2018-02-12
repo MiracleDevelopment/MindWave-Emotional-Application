@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\backgroundtime.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xxhdpi\\backgroundtime.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logoalbum.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xxhdpi\\logoalbum.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\splashscreen.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xxhdpi\\splashscreen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\backgroundmain.png",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\drawable-xxhdpi\\backgroundmain.png"
+    }
+]

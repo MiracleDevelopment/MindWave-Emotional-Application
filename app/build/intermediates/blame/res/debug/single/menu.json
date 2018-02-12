@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\guide.xml",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\menu\\guide.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\welcome.xml",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "D:\\AndroidStudioProject\\MindWave Emotional Application\\app\\src\\main\\res\\menu\\home.xml"
+    }
+]
